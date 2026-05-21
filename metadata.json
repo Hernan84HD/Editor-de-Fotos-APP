@@ -1,0 +1,6 @@
+{
+  "name": "Editor de Fotos",
+  "description": "Una aplicación de edición de fotos intuitiva y potente con filtros de color, recortador de imágenes y añadido de texto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

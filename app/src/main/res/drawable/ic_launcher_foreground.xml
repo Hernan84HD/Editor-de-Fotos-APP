@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer concentric focus ring -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,22 C36.32,22 22,36.32 22,54 C22,71.68 36.32,86 54,86 C71.68,86 86,71.68 86,54 C86,36.32 71.68,22 54,22 Z M54,80 C39.64,80 28,68.36 28,54 C28,39.64 39.64,28 54,28 C68.36,28 80,39.64 80,54 C80,68.36 68.36,80 54,80 Z" />
+    
+    <!-- Mid range lens element -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M54,34 C42.95,34 34,42.95 34,54 C34,65.05 42.95,74 54,74 C65.05,74 74,65.05 74,54 C74,42.95 65.05,34 54,34 Z M54,68 C46.27,68 40,61.73 40,54 C40,46.27 46.27,40 54,40 C61.73,40 67,46.27 67,54 C67,61.73 61.73,68 54,68 Z" />
+    
+    <!-- Central reflex iris highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,46 A4,4 0,1,1 56,46 A4,4 0,1,1 48,46 Z" />
+    
+    <!-- Aperture visual slash line markers representing shutter precision -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M24,54 L28,54" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M80,54 L84,54" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M54,24 L54,28" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M54,80 L54,84" />
+</vector>
